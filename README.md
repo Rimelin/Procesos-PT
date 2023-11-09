@@ -1,2 +1,2 @@
 # Procesos-PT
-Diagramas BPNM
+Diagramas BPMN
